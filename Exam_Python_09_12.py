@@ -1,6 +1,6 @@
-import random
-
 liste_mots = ["citron","castor","cinema","clowns","amours","bijoux","coques","couper","extras"]
+mot_alea = random_choices
+mot_alea = liste_mots[1]
 
-for i in range(0,10):
-    print(i)
+def random_choices
+    
